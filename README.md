@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+﻿# 🔐 Password Strength Checker
 
 A simple, beginner-friendly Python program that checks whether a password is **WEAK**, **MEDIUM** or **STRONG**, and tells you how to improve it.
 
@@ -26,7 +26,7 @@ A simple, beginner-friendly Python program that checks whether a password is **W
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/password-checker.git
+   git clone https://github.com/prince9864/password-checker.git
    cd password-checker
    ```
 2. Run the program:
@@ -120,5 +120,5 @@ For educational use. Add a license of your choice (for example, MIT) before publ
 
 ## 👤 Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Rajkumar Shah**
+GitHub: [@prince9864](https://github.com/prince9864)
